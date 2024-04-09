@@ -1,3 +1,3 @@
 print("nice")
-#not
+#no
 print("3")
